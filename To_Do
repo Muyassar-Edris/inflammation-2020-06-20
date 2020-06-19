@@ -1,0 +1,20 @@
+This is a list of the tasks that need to be completed:
+1. Prepare the geometry.
+2. Set up the CFD model.
+
+1. Add other person to your project (Settings/manage Access/ Add collaborator)
+2. ‘New person’:
+Git clone … to local computer
+3 copies: project owner, collaborator, 
+3. Both people change a file locally
+Git add
+Git commit
+Git push origin master
+4. MERGE CONFLICT
+Git pull
+Open the affected file
+‘FIX’ the changes
+Git add
+Git commit
+Git push
+
